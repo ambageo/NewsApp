@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="welcome_message">Welcome to the News App</string>
+    <string name="instructions">Please enter the topic you are interested in below</string>
+    <string name="hint">I want to read about...</string>
+    <string name="search">search</string>
+    <string name="details">All articles fetched from the Guardian API</string>
+
+    <string name="title">Article Title</string>
+    <string name="section">Section</string>
+    <string name="date">Date</string>
+
+    <string name="no_connection">It seems that there is no internet connection available...</string>
+    <string name="no_data">No articles found to match your search. Please try a different query.</string>
+</resources>
